@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: liyuanyuan
  * @Date: 2021-04-20 17:41:52
- * @LastEditTime: 2021-04-20 18:16:08
+ * @LastEditTime: 2021-08-09 10:04:42
  * @LastEditors: liyuanyuan
  * @FilePath: \lyy-world\src\components\HelloWorld.vue
 -->
@@ -12,7 +12,7 @@
       <p>Hello</p>
       <p>Welcome to lyy's world</p>
     </div>
-    <div class="m-question">sdafsafjklasfj</div>
+    <!-- <div class="m-question">sdafsafjklasfj</div> -->
   </div>
 </template>
 
